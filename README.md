@@ -1,4 +1,4 @@
-Hi, I’m @edu5975
+Hi
 My name is Eduardo Rico
 
 I like programming since I was 14 years old
